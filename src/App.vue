@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import Lobby from './components/Lobby.vue';
-import Room from './components/Room.vue';
+
 </script>
 
 <template>
-  <Lobby />
-  <Room />
+  <main class="bg-blue-100 min-h-screen h-screen relative">
+    <router-view />
+  </main>
 </template>
 
 <style>
