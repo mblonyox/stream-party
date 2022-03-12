@@ -1,3 +1,5 @@
 <template>
-  <div id="room">Room</div>
+  <div class="container flex">
+    
+  </div>
 </template>
