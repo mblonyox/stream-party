@@ -5,7 +5,7 @@ const selectedTheme = ref("light");
 </script>
 
 <template>
-  <main class="min-h-screen h-screen flex flex-col p-4 bg-base-100" :data-theme="selectedTheme">
+  <main class="min-h-screen h-screen flex flex-col gap-4 p-4 bg-base-100" :data-theme="selectedTheme">
     <div class="navbar rounded-xl border bg-base-100">
       <a href="#" class="btn btn-ghost normal-case text-xl text-base-content">Stream Party</a>
       <div class="flex-1"></div>
