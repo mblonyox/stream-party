@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "daisyui": "^2.6.4",
+    "plyr": "^3.6.12",
     "vue": "^3.2.25",
     "vue-router": "4"
   },
